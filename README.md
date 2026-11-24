@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/Auuuaa/u-po-pu-say-what-actually-broke-a2c153b5-entry/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 [![reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/Auuuaa/u-po-pu-say-what-actually-broke-a2c153b5-entry/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 
-One line of error copy that tells the brutal truth — and makes you laugh.
+One line of error copy that names the real culprit — the part everyone swore would never fail — and gets a laugh out of it.
 
 ## Run it
 
